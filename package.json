@@ -1,0 +1,19 @@
+{
+  "name": "secondportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+"home": "node-sass SASS/home.scss CSS/home.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "boostrap": "^2.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
